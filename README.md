@@ -2,6 +2,8 @@
 Python Arpspoof For Multiple Targets,
 This is a Tool made by AdianGg,
 It is easy to use,just according to the instructions, there are guidelines for each step
+
+一个基于python3的小工具，可以简单实现多线程多目标的Arp欺骗，在kali linux中自带的arpspoof一次只可以欺骗单个目标，而在实际应用中，我们经常需要欺骗整个网段的所有存活主机，所以做了这个脚本
 # 所调用的库：
  - re:python自带的标准库
  - time:python自带的标准库
