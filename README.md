@@ -25,7 +25,7 @@ Linux with python3
 
 Thank you for using!!!!!!!!!!!!
 # 界面
-![微信图片_20200125115051.png][2]
+![ui.png][2]
 # 被攻击目标情况
 ![xp.png][3]
 # About
@@ -33,6 +33,6 @@ WgpSec狼组安全团队:http://www.wgpsec.org
 
 AdianGg's Blog:http://www.e-wolf.top
 
-  [1]: http://www.e-wolf.top/index.php/archives/138/
+  [1]: http://www.e-wolf.top/index.php/archives/113/
   [2]: http://www.e-wolf.top/usr/uploads/2020/01/3030503727.png
   [3]: http://www.e-wolf.top/usr/uploads/2020/01/3782156961.png
